@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ched101
-- 👀 I’m interested in learning to code
-- 🌱 I’m currently learning HTML as a beginner
-- 💞️ I’m looking to collaborate on any projects in the future 
-- 📫 How to reach me ...Email: chedtlotlo864@gmail.com
+- 👋 Hi, I’m @Ched
+- 👀 I'm an aspiring machine learning and artificial intelligence researcher 
+- 🌱 I’m currently an undergraduate student at BIUST doing my fourth year in Mechatronics and Industrial Instrumentation
+- 💞️ I’m looking to collaborate on any related to projects to learn more
+- 📫 How to reach me: chedtlotlo864@gmail.com or rt21000503@studentmail.biust.ac.bw
 
 <!---
 Ched101/Ched101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
