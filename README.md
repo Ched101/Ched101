@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ched
-- 👀 I'm an aspiring machine learning and artificial intelligence researcher 
-- 🌱 I’m currently an undergraduate student at BIUST doing my fourth year in Mechatronics and Industrial Instrumentation
+- 👋 Hi, I’m Tlotlo Ched Rankgwathi
+- 👀 I'm an aspiring machine learning and artificial intelligence engineer 
+- 🌱 I’m currently an undergraduate student at BIUST doing my final year in Mechatronics and Industrial Instrumentation
 - 💞️ I’m looking to collaborate on any related to projects to learn more
 - 📫 How to reach me: chedtlotlo864@gmail.com or rt21000503@studentmail.biust.ac.bw
 
