@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Tlotlo Ched Rankgwathi
-- 👀 I'm an aspiring machine learning and artificial intelligence engineer 
-- 🌱 I’m currently an undergraduate student at BIUST doing my final year in Mechatronics and Industrial Instrumentation
+- 👋 The name is Tlotlo Ched Rankgwathi
+- 👀 An aspiring machine learning and artificial intelligence engineer 
+- 🌱 BEng Mechatronics and Industrial Instrumentation Engineering graduate
 - 💞️ I’m looking to collaborate on any related to projects to learn more
-- 📫 How to reach me: chedtlotlo864@gmail.com or rt21000503@studentmail.biust.ac.bw
+- 📫 How to reach me: tlotlochedrankgwathi@gmail.com 
 
 <!---
 Ched101/Ched101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
